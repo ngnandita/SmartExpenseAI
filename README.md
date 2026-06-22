@@ -2,19 +2,17 @@
 
 AI Powered Expense Tracker and Financial Insights System
 
-## Features
+## Week 1 Deliverables
 
-- Expense Tracking
-- Dashboard Analytics
-- Budget Monitoring
-- AI Insights
-- Expense Prediction
-- Anomaly Detection
+- BRD
+- SRS
+- ER Diagram
+- API Documentation
+- Backend Boilerplate
 
 ## Tech Stack
 
+- Python
 - Flask
 - SQLite
-- React
-- Chart.js
-- Scikit-Learn
+- Machine Learning
